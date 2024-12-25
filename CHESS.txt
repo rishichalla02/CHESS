@@ -1,0 +1,10 @@
+     @CHESS:-
+
+backend1 :-
+
+tsc -b
+node dist/index.js
+
+npm run dev
+tsc -b
+node dist/index.js
