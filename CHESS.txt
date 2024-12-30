@@ -1,6 +1,6 @@
      @CHESS:-
 
-backend1 :-
+backend :-
 
 tsc -b
 node dist/index.js
